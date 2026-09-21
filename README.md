@@ -56,8 +56,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+  <!-- Stats & Top Langs con servidor alternativo de respaldo -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -66,9 +67,9 @@
 
 <div align="center">
   <a href="https://github.com/DanielFalconGuerra/Movapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Movapp&theme=tokyonight&hide_border=true" alt="Movapp" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Movapp&theme=tokyonight&hide_border=true" alt="Movapp" />
   </a>
   <a href="https://github.com/DanielFalconGuerra/Background-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Background-generator&theme=tokyonight&hide_border=true" alt="Background Generator" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Background-generator&theme=tokyonight&hide_border=true" alt="Background Generator" />
   </a>
 </div>

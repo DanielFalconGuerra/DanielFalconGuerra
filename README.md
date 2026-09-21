@@ -1,74 +1,74 @@
-<h1 align="center">Hi , I'm Daniel Falcon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Android%20And%20Web;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I am a Fullstack Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic who loves to take up new challenges and learn new skills.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DanielFalconGuerra&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<div align="center">
+  <h1>Hi, I'm Daniel Falcón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave"></h1>
 
-## :100: My Website
-- [dev-mobile.net]([dev-mobile.net])
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFalconGuerra&theme=algolia" alt="candida18"  /></p>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Full+Stack+Developer;Specializing+in+.NET%2C+Clean+Architecture+%26+Cloud;Mobile+%26+Industrial+IoT+Integrations;Passionate+about+Robust+System+Design" alt="Typing SVG" />
   </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,cs" />
-  </a>
-</p>
 
-### 👉 Frameworks
-<p align="left"> 
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/DanielFalconGuerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://dev-mobile.net"><img src="https://img.shields.io/badge/Portfolio-dev--mobile.net-2088FF?style=flat-square&logo=firefox-browser&logoColor=white" alt="Website" /></a>
+    <img src="https://komarev.com/ghpvc/?username=DanielFalconGuerra&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 **Backend & Architecture:** Building scalable systems, REST APIs, and microservices using **C#**, **.NET**, **Clean Architecture**, and **CQRS**.
+- 🛠️ **Full Stack & Mobile:** End-to-end development with web interfaces, **Android**, and cross-platform tooling.
+- ⚙️ **Infrastructure & IoT:** Managing **Linux/Windows** environments, Docker containers, and integrating hardware/industrial devices.
+- 🎯 **Continuous Improvement:** Lifelong learner dedicated to software craft, domain design, and technical writing.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Backend Ecosystem**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,ts" alt="Backend & Languages" />
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
-  </a>
+**Databases & Storage**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases" />
 </p>
 
-### 👉 Databases
-<p align="left"> 
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  </a>
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,androidstudio,flutter" alt="Frontend and Mobile" />
 </p>
 
-### 👉 Operating Systems
-<p align="left"> 
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,apple,raspberrypi" />
-  </a>
+**DevOps, Systems & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,windows,raspberrypi,vscode,visualstudio,postman" alt="DevOps and Tools" />
 </p>
 
- ### 👉 Software & Tools
- <p align="left"> 
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,postman" />
-  </a>
-</p>
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFalconGuerra&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 
 <br/>
 
-## My Projects
-<a href="https://github.com/DanielFalconGuerra/Movapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Background-generator&theme=tokyonight" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+</div>
 
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/DanielFalconGuerra/Movapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Movapp&theme=tokyonight&hide_border=true" alt="Movapp" />
+  </a>
+  <a href="https://github.com/DanielFalconGuerra/Background-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Background-generator&theme=tokyonight&hide_border=true" alt="Background Generator" />
+  </a>
+</div>

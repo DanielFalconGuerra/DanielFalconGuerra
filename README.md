@@ -47,29 +47,9 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFalconGuerra&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Stats & Top Langs con servidor alternativo de respaldo -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/DanielFalconGuerra/Movapp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Movapp&theme=tokyonight&hide_border=true" alt="Movapp" />
-  </a>
-  <a href="https://github.com/DanielFalconGuerra/Background-generator">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielFalconGuerra&repo=Background-generator&theme=tokyonight&hide_border=true" alt="Background Generator" />
-  </a>
-</div>
+| Repositorio | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| 📱 **[Movapp](https://github.com/DanielFalconGuerra/Movapp)** | Aplicación móvil para gestión y tracking en tiempo real. | Android, Java |
+| 🎨 **[Background Generator](https://github.com/DanielFalconGuerra/Background-generator)** | Generador interactivo de estilos y degradados CSS. | JavaScript, HTML5, CSS3 |

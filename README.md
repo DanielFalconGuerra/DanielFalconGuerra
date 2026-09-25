@@ -70,12 +70,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFalconGuerra&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DanielFalconGuerra&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---

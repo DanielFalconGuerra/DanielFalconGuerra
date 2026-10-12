@@ -42,12 +42,9 @@
 <br/>
 
 <div align="center">
-  <!-- Stats & Top Langs con servidor alternativo de respaldo -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
----
 
 ---
 

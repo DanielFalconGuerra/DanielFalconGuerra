@@ -7,8 +7,6 @@
 
   <p>
     <a href="https://linkedin.com/in/DanielFalconGuerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://dev-mobile.net"><img src="https://img.shields.io/badge/Portfolio-dev--mobile.net-2088FF?style=flat-square&logo=firefox-browser&logoColor=white" alt="Website" /></a>
-    <img src="https://komarev.com/ghpvc/?username=DanielFalconGuerra&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
@@ -43,6 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielFalconGuerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFalconGuerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 

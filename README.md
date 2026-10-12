@@ -25,25 +25,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Backend Ecosystem**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,ts" alt="Backend & Languages" />
-</p>
-
-**Databases & Storage**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases" />
-</p>
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,androidstudio,flutter" alt="Frontend and Mobile" />
-</p>
-
-**DevOps, Systems & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,windows,raspberrypi,vscode,visualstudio,postman" alt="DevOps and Tools" />
-</p>
+<div align="center">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=csharp,dotnet,java,python,javascript,typescript,html,css,bootstrap,jquery,androidstudio,flutter,obsidian&width=850" alt="Tech Stack - Languages & Frontend" />
+  <br />
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=docker,git,github,linux,ubuntu,windows,raspberrypi,vscode,visualstudio,postman,powershell,postgresql,mysql,mongodb,sqlite&width=850&direction=right" alt="Tech Stack - Systems, DB & Tools" />
+</div>
 
 ---
 
